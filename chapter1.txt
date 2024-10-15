@@ -1,3 +1,5 @@
 Chapter 1
 
 We try to use GitHub by useing command
+
+Add updating 
